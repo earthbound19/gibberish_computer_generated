@@ -1,5 +1,7 @@
 
 <?php
+//To sync repo to web server via remote terminal: git.exe pull --progress --no-rebase -v
+
 print("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"\></head><body>");
 print("COMPUTER-GENERATED POSTMODERN \"ARTIST STATEMENT\" DRAWING HAT<br/><br/>May you find the following as meaningful as <a href=\"https://www.canopycanopycanopy.com/contents/international_art_english\">so many other</a> <em>genuine</em> statements. This writing is in the Public Domain; you may use it for any purpose. To get another statement, <a href=\"index.php\">reload the page</a>.<br/><br/>----<br/>");
 
