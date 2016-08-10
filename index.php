@@ -4,7 +4,7 @@ print("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"\></head><b
 print("COMPUTER-GENERATED POSTMODERN \"ARTIST STATEMENT\" DRAWING HAT<br/><br/>May you find the following as meaningful as <a href=\"https://www.canopycanopycanopy.com/contents/international_art_english\">so many other</a> <em>genuine</em> statements. This writing is in the Public Domain; you may use it for any purpose. To get another statement, <a href=\"index.php\">reload the page</a>.<br/><br/>----<br/>");
 
 // $gibdir = "edited/";
-$gibdir = "International_Art_English_styled_generated_gibberish\pyMarkovGibbGen/edited/";
+$gibdir = "International_Art_English_styled_generated_gibberish/pyMarkovGibbGen/edited/";
 // Open a known directory, and read its contents
 $source_files_array = array();
 if (is_dir($gibdir)) {
