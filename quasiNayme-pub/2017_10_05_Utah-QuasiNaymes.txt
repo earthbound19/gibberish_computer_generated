@@ -1,0 +1,91 @@
+# QUASINAYME BATCH
+
+Via GibGenTrigrams.py
+
+--
+R. Gemmamm
+Osby-belir
+Dakanz
+Aymoyseyu
+T-vidgen Demberr-hadnakin'
+Bilirrh
+Zaquorm-Somnazzi
+M'KiAnk Fulday Benz
+M'JeNezo
+Bodru
+Wenzy
+R. Gebend
+Violkynzy
+Uwa
+Ciseyunzt
+Kwynzy
+B'ato
+Elilyl Voop
+Belizzevlyldelwynaevhsh
+Rinynz
+SerNeitVarf
+Aynzt
+Lloo
+R. Gem Yomeyu
+Ithyiazz
+Fleyu
+Kaseyu
+Vailyl Dyld
+G'n
+Jaceyd
+Farmsynz
+Flemenz
+R. Gerhimaymp Taykarm
+K. Panz
+McEve
+L. Ramy
+Rialvorgeyl Depenz
+Sequoiya
+Khre Vaimam Eggeyun
+Fivlaz Dijk Eezdoco
+Thraxisce-ZoorLeGricy
+K. Payk
+Karz
+Sequetressio
+HiDe Wituesse Bav
+Valyl
+Iolganz
+Zzkold
+D'orlemy Alka Ingonz
+Cid O.
+Deuanh Awly Lyld
+R. Gemyr
+BlidaRaev
+AlRem Yomega
+SriLew-Eth
+RhyAnfeazz
+Ja'zerh
+L. RaddLy Lvalk-may Rakay Kiaz Inceyu
+Wheievhsh
+Ephip-wakhaccitur Tehliro Mayk
+AmyouDaxong
+Xlyl
+Kh-repenz
+Raddol Beyu
+Dak
+Vao
+T-Ankfuldakhamaymatt
+G'nez
+QeddLy Lvol
+Alpmay Bardsom
+Rambuciekatom
+
+--
+Run of imported stats which only terminate in the algorithm where there is no match and no spaces are matched:
+
+ ggennuejkark CembuldreskilLynd T-vililijinddoldakhavo PhepeggelildaummaddolylyleddeVeomend ThuelidaklahCildeldyshama CemecielildelildakisthybelumendusdedgenDonlylommievynanmaysakan'yeomanmarhlamelvoly GatchaddolgielRaddekkenlafongy katomossomolgaicytehakhakhaksoncytlililillBenDodalgincynlaVischeffrafayrromonzy okalothakarhevlyledweeoparhlyloens Om
+
+In progress extraction from that:
+
+Ggennue Jkark
+Cembul Dreskil Lynd
+T-vililij Inddol Dakhavo
+Phepegge Lildaummaddo Lylyledde Veomend
+Thuelidak LahCilde Ldyshama
+Cemecielil Delildak Isthybe
+LumendusdedgenDonlylommievynanmaysakan'yeomanmarhlamelvoly GatchaddolgielRaddekkenlafongy katomossomolgaicytehakhakhaksoncytlililillBenDodalgincynlaVischeffrafayrromonzy okalothakarhevlyledweeoparhlyloens Om
