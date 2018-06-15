@@ -1,6 +1,9 @@
 # FINIS. 11/06/2015 09:25:33 PM -RAH
 	# Thanks to: http://linuxcommando.blogspot.com/2008/03/using-sed-to-extract-lines-in-text-file.html
 
+# TO DO
+# Remove texteffect.sh dependency--what I am doing is too simple to need that.
+
 for i in {1..20}
 do
 # GET QUASINAYME FROM SOURCE FILE AND LOG USE.
