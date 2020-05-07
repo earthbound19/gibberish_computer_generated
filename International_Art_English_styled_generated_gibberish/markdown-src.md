@@ -45,3 +45,7 @@ This page doubles as an API. To get a plain-text statement without this explanat
 #### How to Contribute
 
 To contribute to these entertainments, clone the [git repository](https://github.com/earthbound19/gibberish_computer_generated), do your stuff and submit a pull request.
+
+### ~
+
+_Back to [index](../)_
