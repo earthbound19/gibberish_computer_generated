@@ -34,7 +34,7 @@ This page randomly selects and serves pre-generated farcical artist statements, 
 
 The statements, being AI-generated, are by nature (and if human-created, by dedication) in the Public Domain.
 
-To get another statement, [reload the page](/).
+To get another statement, [reload the page](./).
 
 This "statement" is from this source file:
 

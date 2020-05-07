@@ -67,7 +67,7 @@ if (empty($_GET)) {
 	<h4 id=\"how-this-works\"><a class=\"header-link\" href=\"#how-this-works\"></a>How This Works</h4>
 	<p>This page randomly selects and serves pre-generated farcical artist statements, many of which were created with computer assistance; for example by statistical sentence recombobulation: training an AI on actual IAE, then having it gurgitate similar stuff.</p>
 	<p>The statements, being AI-generated, are by nature (and if human-created, by dedication) in the Public Domain.</p>
-	<p>To get another statement, <a href=\"/\">reload the page</a>.</p>
+	<p>To get another statement, <a href=\"./\">reload the page</a>.</p>
 	<p>This &quot;statement&quot; is from this source file:</p>
 	<p><a href=\"International_Art_English_styled_generated_gibberish/pyMarkovGibbGen/edited/" . $source_files_array[$file] . "\"> $source_files_array[$file] </a></p>
 	<p>This page doubles as an API. To get a plain-text statement without this explanation, call the page with any GET variable declared, like this: <a href=\"http://earthbound.io/gibberish-artist-statements/index.php?gib=florf\">http://earthbound.io/gibberish-artist-statements/index.php?gib=florf</a></p>
