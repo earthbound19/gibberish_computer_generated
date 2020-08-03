@@ -40,7 +40,9 @@ This "statement" is from this source file:
 
 [INSERT-URL-TO-SOURCE-FILE](TEXT-OF-PATH-TO-FILE.txt).
 
-This page doubles as an API. To get a plain-text statement without this explanation, call the page with any GET variable declared, like this: [http://earthbound.io/gibberish-artist-statements/index.php?gib=florf](http://earthbound.io/gibberish-artist-statements/index.php?gib=florf)
+This page doubles as an API. To get a plain-text statement without this explanation, call the page with any GET variable declared, like this:
+
+    [http://earthbound.io/data/gibberish-artist-statements/index.php?gib=florf](http://earthbound.io/data/gibberish-artist-statements/index.php?gib=florf)
 
 #### How to Contribute
 
@@ -48,4 +50,4 @@ To contribute to these entertainments, clone the [git repository](https://github
 
 ### ~
 
-_Back to [index](../)_
+_Back to [index](../../)_

@@ -70,10 +70,11 @@ if (empty($_GET)) {
 	<p>To get another statement, <a href=\"./\">reload the page</a>.</p>
 	<p>This &quot;statement&quot; is from this source file:</p>
 	<p><a href=\"International_Art_English_styled_generated_gibberish/pyMarkovGibbGen/edited/" . $source_files_array[$file] . "\"> $source_files_array[$file] </a></p>
-	<p>This page doubles as an API. To get a plain-text statement without this explanation, call the page with any GET variable declared, like this: <a href=\"http://earthbound.io/gibberish-artist-statements/index.php?gib=florf\">http://earthbound.io/gibberish-artist-statements/index.php?gib=florf</a></p>
+	<p>This page doubles as an API. To get a plain-text statement without this explanation, call the page with any GET variable declared, like this:</p>
+	<p><a href=\"http://earthbound.io/data/gibberish-artist-statements/index.php?gib=florf\">http://earthbound.io/data/gibberish-artist-statements/index.php?gib=florf</a></p>
 	<h4 id=\"how-to-contribute\"><a class=\"header-link\" href=\"#how-to-contribute\"></a>How to Contribute</h4>
 	<p>To contribute to these entertainments, clone the <a href=\"https://github.com/earthbound19/gibberish_computer_generated\">git repository</a>, do your stuff and submit a pull request.</p>
-	<p><em>Back to <a href=\"../\">index</a>
+	<p><em>Back to <a href=\"../../\">index</a>
 	</body>
 	</html>
 	"
